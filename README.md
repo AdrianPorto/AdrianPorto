@@ -28,5 +28,5 @@
   
  
   
-  ![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
+  ![Snake animation](https://github.com/AdrianPorto/AdrianPorto/blob/dev/snake.svg)
 </div>
